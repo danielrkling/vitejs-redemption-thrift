@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p class="read-the-docs">
-        Click on the Vite and Solid logos to learn more
+        I made edits from work
       </p>
     </>
   )
